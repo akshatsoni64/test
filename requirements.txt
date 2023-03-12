@@ -1,5 +1,3 @@
 flask
 gunicorn
 SQLAlchemy
-opencv-python
-numpy
